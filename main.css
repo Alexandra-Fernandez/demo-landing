@@ -1,0 +1,159 @@
+body{
+    font-family: 'Noto Sans', sans-serif;
+}
+#navbar{
+    background-color: #FFFFFF;
+    height: 94px;
+}
+
+.section{
+    color: #000000;
+}
+.banner{
+    background-repeat: repeat;
+    background-size: cover;
+}
+.contenedor, .banner{
+    min-height: 100%;
+}
+.banner-home{
+    background-image: url(img/banner-1.jpg);
+}
+.title-banner-1{
+    width: 100px;
+    margin-top: 12%;
+    color: #FFFFFF;
+    margin-bottom: 20%;
+}
+.text-1{
+    font-weight: 800;
+}
+.studio{
+    font-size: 124px;
+    margin-top: -17px;
+}
+.banner-services{
+    background-image: url(img/banner-2.jpg);
+}
+.imagen-banner-2{
+    width: 63%;
+    position: relative;
+    left: 15%;
+    box-shadow: -18px 18px 88px #BBBABB;
+    margin-top: 20%;
+    margin-bottom: 16%;
+}
+#title-services{
+    font-weight: 800;
+    padding-right: 18%;
+}
+#text-services{
+    margin-top: 12%;
+}
+.list-services{
+    display:inline-block;
+    margin-right: 5%;
+    color: #DA6528;
+    font-weight: 700;
+}
+.text2-services{
+    padding-right: 8%;
+}
+.our-services{
+    margin-top: 10%;
+    font-weight: 700;
+    color: #DA6528;
+}
+.banner-about{
+    background-image: url(img/banner-3.jpg);
+}
+.container{
+    text-align: center;
+    padding-top: 8%;
+    padding-bottom: 24%;
+}
+.list{
+    color: #FFFFFF;
+    padding-bottom: 8%;
+}
+#title-experience{
+    font-weight: 800;
+}
+.about-section{
+    margin-top: 10%;
+}
+#website-section{
+    padding: 3%;
+}
+#app-section{
+    background-color: #F5D447;
+    padding: 3%;
+    color: #000000;
+    box-shadow: -18px 18px 88px #C74A1C;
+}
+#branding-section{
+    padding: 3%;
+}
+
+#our-projects{
+    padding-bottom: 0;
+}
+#title-project{
+    font-weight: 800;
+}
+.img-work-1{
+    width: 87%;
+    box-shadow: -70px 73px 1px -20px #F6F4F6;
+    margin-right: 70px;
+}
+.img-work-2{
+    width: 100%;
+    box-shadow: -70px 73px 1px -20px #F6F4F6;
+
+}
+.img-work-3{
+    width: 100%;
+    box-shadow: -70px 73px 1px -20px #D85836;
+}
+.img-work-4{
+    width: 87%;
+    box-shadow: -70px 73px 1px -20px #F6F4F6;
+    margin-left: 84px;
+}
+#text-projects{
+    text-align: left;
+    font-weight: 800;
+}
+.text{
+    color: #FFFFFF;
+}
+.all-projects{
+    font-weight: 800;
+    color: #E55C2F;
+    padding-top: 8%;
+    margin-bottom: 16%;
+}
+.fondo-formulario{
+    background-color: #F6D448;
+    padding-top: 10%;
+}
+#contact{
+    padding-bottom: 20px;
+}
+#formulario{
+    background-color: #FFFFFF;
+    padding: 10%;
+    box-shadow: -18px 18px 88px #C6AE53;
+}
+#contact-us{
+    padding-top: 10%;
+    padding-bottom: 10%;
+    text-align: left;
+}
+.title-contactus{
+    font-weight: 800;
+}
+.subtitle-conctus{
+    color: #C6C4C6;
+    padding-top: 5%;
+}
